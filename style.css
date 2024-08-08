@@ -1,0 +1,65 @@
+*{
+
+    font-family: "Noto Sans", sans-serif
+}
+
+#hed h1{
+
+    position: absolute;
+    bottom:200px;
+    left: 15px;
+    color:black;
+    font-size: 30px;
+    font-weight: 200px;
+}
+
+#hed h3{
+
+    position: absolute;
+    bottom:150px;
+    left: 15px;
+    color:black;
+    font-size: 15px;    
+}
+
+#yx{
+
+    width: 150px;
+    position: absolute;
+    height: 40px;
+    border-radius: 7px;
+    bottom: 90px;
+    left: 60px;
+    background-color: orange;
+    border-color: orange;
+}
+
+#nc{
+
+   
+    
+   margin-top: 30px;
+    border-radius: 7px;
+    bottom: 90px;
+    text-align: center;
+    background-color: aliceblue;
+
+
+
+}
+
+#bc{
+
+    margin-top: 30px;
+
+}
+
+#bc img{
+
+   
+    border-radius: 390px;
+    left: 500px;
+    margin-left: 900px;
+    margin-top: 10px ;
+    top
+}
